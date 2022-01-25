@@ -1,2 +1,2 @@
 # stellar-lives
-恒星电视插件
+电视插件
